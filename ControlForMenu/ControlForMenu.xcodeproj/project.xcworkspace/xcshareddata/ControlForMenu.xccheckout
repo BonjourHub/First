@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>9239D369-2BB1-47BE-929F-356A05CD825C</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ControlForMenu</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>B742DD854A6D0363C12E40B955450C01475D9148</key>
+		<string>https://github.com/BonjourHub/First.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ControlForMenu/ControlForMenu.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>B742DD854A6D0363C12E40B955450C01475D9148</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/BonjourHub/First.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>B742DD854A6D0363C12E40B955450C01475D9148</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>B742DD854A6D0363C12E40B955450C01475D9148</string>
+			<key>IDESourceControlWCCName</key>
+			<string>First</string>
+		</dict>
+	</array>
+</dict>
+</plist>
